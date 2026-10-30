@@ -1,4 +1,4 @@
-# 🌐 Universal SEO Engineer Pro v2
+# 🌐 Universal SEO Engineer
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License" />
